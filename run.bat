@@ -1,0 +1,3 @@
+@echo off
+echo Starting Dumroo NL Query System...
+streamlit run src\ui\streamlit_app.py

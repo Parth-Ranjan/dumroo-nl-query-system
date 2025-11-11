@@ -1,0 +1,34 @@
+{
+  "admins": [
+    {
+      "admin_id": "A001",
+      "name": "John Admin",
+      "scope_type": "grade",
+      "scope_values": ["8"]
+    },
+    {
+      "admin_id": "A002",
+      "name": "Sarah Manager",
+      "scope_type": "class",
+      "scope_values": ["8A", "8B"]
+    },
+    {
+      "admin_id": "A003",
+      "name": "Mike Regional",
+      "scope_type": "region",
+      "scope_values": ["North"]
+    },
+    {
+      "admin_id": "A004",
+      "name": "Lisa South Admin",
+      "scope_type": "region",
+      "scope_values": ["South"]
+    },
+    {
+      "admin_id": "A005",
+      "name": "Tom Multi-Grade",
+      "scope_type": "grade",
+      "scope_values": ["7", "8", "9"]
+    }
+  ]
+}
