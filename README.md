@@ -83,10 +83,14 @@ The application will open in your default web browser at `http://localhost:8501`
 
 ### Example Queries
 
-- "Which students haven't submitted their homework yet?"
-- "Show me performance data for Grade 8 from last week"
-- "List all upcoming quizzes scheduled for next week"
-- "Show me all students in my scope"
+- "Which students haven't submitted their homework yet?"<img width="1913" height="916" alt="image" src="https://github.com/user-attachments/assets/fb0c33f6-096a-4a5c-a123-87da3495d71b" />
+
+- "Show me performance data for Grade 8 from last week"<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/5306f296-539c-476f-982d-51d076cb35c1" />
+
+- "List all upcoming quizzes scheduled for next week"<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/11f15e86-4388-4875-beeb-143f95e29ba7" />
+
+- "Show me all students in my scope"<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/b1ef1ef1-c126-43c2-ab00-ecddf054d69f" />
+
 
 ### Admin Roles
 
